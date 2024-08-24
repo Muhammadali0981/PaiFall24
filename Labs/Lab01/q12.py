@@ -3,7 +3,6 @@
 # Description: program to print a dictionary where the keys are numbers between 1 and 15
 #              and the values are the square of the keys.
 
-
 squares: dict[int, int] = {}
 
 for n in range(1,16):
