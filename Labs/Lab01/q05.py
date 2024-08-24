@@ -14,7 +14,7 @@ for i in range(n):
     
 j: int = 0
 while j < len(nums):
-    if(nums[j] < num):
+    if nums[j] < num:
         del nums[j]
     else:
         j += 1
