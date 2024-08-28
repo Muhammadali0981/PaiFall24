@@ -22,4 +22,3 @@ print(cal_trapezoid(2,3,6))
 print(cal_parallelogram(6,4))
 print(cal_cylinder_volume(6,5))
 print(cal_cylinder_area(6,5))
-
