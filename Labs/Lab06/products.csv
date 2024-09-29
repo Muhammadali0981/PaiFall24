@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Price
+1,Tablet,Clothing,930.61
+2,Microwave,Electronics,565.21
+3,Headphones,Home & Kitchen,628.63
+4,Board Game,Toys,75.25
+5,Headphones,Electronics,465.98
+6,Novel,Toys,663.25
+7,Camera,Toys,713.77
+8,Novel,Home & Kitchen,690.33
+9,Microwave,Clothing,89.92
+10,Board Game,Home & Kitchen,393.69
+11,T-Shirt,Home & Kitchen,182.52
+12,Jeans,Clothing,783.26
+13,Microwave,Toys,944.39
+14,Novel,Toys,284.43
+15,Tablet,Clothing,213.09
+16,Jeans,Books,122.04
+17,Board Game,Books,291.88
+18,Smartphone,Electronics,766.37
+19,Jeans,Sports,502.8
+20,Smartphone,Toys,390.65
+21,Camera,Sports,703.03
+22,Smartphone,Books,608.0
+23,Board Game,Books,849.35
+24,Football,Toys,708.71
+25,Chair,Sports,466.3
+26,Headphones,Home & Kitchen,756.45
+27,Board Game,Books,802.07
+28,Football,Toys,242.36
+29,Jeans,Sports,185.52
+30,Cookware Set,Clothing,117.71
+31,Sneakers,Home & Kitchen,214.96
+32,Board Game,Electronics,63.69
+33,Novel,Sports,409.26
+34,Sofa,Electronics,369.96
+35,Blender,Toys,982.82
+36,Tablet,Clothing,385.18
+37,Chair,Toys,182.39
+38,Headphones,Clothing,47.31
+39,Sofa,Electronics,206.06
+40,Headphones,Clothing,706.94
+41,Laptop,Books,816.42
+42,Microwave,Toys,524.83
+43,Microwave,Home & Kitchen,273.81
+44,Tablet,Sports,515.76
+45,Chair,Toys,926.15
+46,Sneakers,Home & Kitchen,975.7
+47,Basketball,Home & Kitchen,991.6
+48,Sofa,Clothing,957.64
+49,Chair,Home & Kitchen,162.61
+50,Sofa,Clothing,937.95
