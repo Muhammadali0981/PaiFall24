@@ -9,7 +9,7 @@ class Animal:
         self.available_for_viewing = a
 
     def display_info(self):
-        print(f'Name = {self.name}\nAge = {self.age}\nHabitat = {self.habitat}\nAvalibality = {self.available_for_viewing}')
+        print(f'Name = {self.name}\nAge = {self.age}\nHabitat = {self.habitat}\nAvalibality = {"Available" if self.available_for_viewing else "Quarantine"}')
 
 
 class Bird(Animal):
@@ -52,7 +52,7 @@ print("\n")
 
 print("Mammal Class:")
 lion = Mammal(n="Simba the lion", age=5, h="Savannah", a=False, f=5, d="Carnivore")
-lion.display_info()  # Display info for lion
+lion.display_info()  
 print("\n")
 
 print("Reptile Class:")
