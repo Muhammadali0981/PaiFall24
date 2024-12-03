@@ -5,7 +5,7 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 
 
-df = pd.read_csv('Iris.csv')
+df = pd.read_csv(r'C:\me\PaiFall24\Labs\Lab12\Iris.csv')
 
 scalar = StandardScaler()
 df_scaled = scalar.fit_transform(df.copy(deep=True).iloc[:, :-1])
